@@ -1,0 +1,100 @@
+{
+  "company": {
+    "name": "Holbert Law",
+    "tagline": "We Fight For Georgia Nursing Home Abuse Victims",
+    "description": "For over 20 years, we have been a voice for nursing home victims who can't speak for themselves. We have the skill, experience, and resources to win. Atlanta's trusted source of strength and advocacy for families seeking justice in cases of nursing home abuse and neglect throughout Georgia.",
+    "phone": "(404) 850-HURT",
+    "email": null,
+    "address": null,
+    "hours": null
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769108193/auto-site-builder/THE%20KALON%20LAW%20FIRM%2C%20LLC/image_0.png",
+    "primaryColor": "#1e3a5f",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "We Fight For Georgia Nursing Home Abuse Victims",
+    "subheadline": "For over 20 years, we have been a voice for nursing home victims who can't speak for themselves. We have the skill, experience, and resources to win.",
+    "cta": {
+      "label": "Request your free consultation",
+      "href": "/contact"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1920&h=1080&fit=crop&q=80",
+    "imageOpacity": 35
+  },
+  "sections": {
+    "about": {
+      "headline": "Holbert Law: Your Premier Georgia Nursing Home Abuse Firm",
+      "content": "Welcome to Holbert Law—Atlanta's trusted source of strength and advocacy for families seeking justice in cases of nursing home abuse and neglect throughout Georgia. We understand the deep worry and heartache that follow when a loved one is harmed in a nursing home or assisted living facility. Led by William 'Bill' F. Holbert and Joan M. Woolley, our firm brings together decades of legal experience, insider insight, and an unwavering dedication to holding negligent care providers accountable. We are committed to protecting Georgia's seniors and the families who love them.",
+      "image": "https://res.cloudinary.com/dil14r8je/image/upload/v1769108190/auto-site-builder/THE%20KALON%20LAW%20FIRM%2C%20LLC/image_5.jpg",
+      "values": [
+        {
+          "title": "Over 40 Years Combined Experience",
+          "description": "We have practiced in our field for over 40 years combined & handled over 1,000 nursing home cases."
+        },
+        {
+          "title": "Former Defense Lawyers",
+          "description": "As former Defense Lawyers, We understand both sides."
+        },
+        {
+          "title": "Tens of Millions Recovered",
+          "description": "We have recovered TENS OF MILLIONS in verdicts and settlements."
+        },
+        {
+          "title": "No Fee Unless We Win",
+          "description": "We only recover fees when we win your case."
+        }
+      ]
+    },
+    "services": {
+      "headline": "Practice Areas"
+    },
+    "team": {
+      "headline": "Our Attorneys"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "ctaButton": {
+      "label": "Contact Us Today",
+      "href": "/contact"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Holbert Law. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "Georgia Nursing Home Abuse Lawyer | Holbert Law",
+    "description": "Find a reliable Georgia Nursing Home Abuse Lawyer to advocate for victims of neglect and mistreatment in nursing homes."
+  },
+  "resources": [
+    {
+      "title": "Free Consultation",
+      "description": "Schedule a complimentary consultation to discuss your legal needs and explore your options.",
+      "href": "/contact",
+      "cta": "Schedule now"
+    }
+  ],
+  "theme": "light",
+  "vibe": "community"
+}
